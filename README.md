@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pradeep
 - 👀 I’m interested in SOFTWARE DEVELOPMENT
-- 🌱 I’m currently learning REACT JS
+- 🌱 I’m currently Working on REACT JS
 - 💞️ I’m looking to collaborate on FULLSTACK DEVELOPMENT
 - 📫 How to reach me CONTACT:7981929728
     MAIL:pradeeakumar@gmail.com
