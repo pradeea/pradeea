@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @pradeep
-- 👀 I’m interested in SOFTWARE DEVELOPMENT
-- 🌱 I’m currently Working on REACT JS
-- 💞️ I’m looking to collaborate on FULLSTACK DEVELOPMENT
-- 📫 How to reach me CONTACT:7981929728
-    MAIL:pradeeakumar@gmail.com
+- 👋 Hi, I’m Pradeep
+- 👀 Mission: Make Human Life a little Better With Technology 
+- 🌱 I’m currently Working on Next Js & Machine Learning
+- 💞️ I’m looking to collaborate on AI/ML & Full Stack Development
+- 📫 Have an Idea? CONTACT:226 899 3964
+    Email:pradeeakumar@gmail.com
 
 <!---
 pradeea/pradeea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
